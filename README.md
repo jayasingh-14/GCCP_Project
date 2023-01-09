@@ -9,3 +9,9 @@
   3. Bootstrap
   4. Git
   5. Github
+
+# Team Members
+  1. Jaya Singh
+  2. Rashmi Kanharkar
+  3. Silvi Gupta
+  4. Shreyash Sahu
